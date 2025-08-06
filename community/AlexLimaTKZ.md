@@ -10,7 +10,7 @@
 
 - Meu sonho é atuar profissionalmente como desenvolvedor, criando soluções que impactem positivamente a vida das pessoas. Estou comprometido em me tornar um profissional de excelência, combinando minha paixão por tecnologia com minha capacidade de liderança e gestão. Estou sempre aberto a novas oportunidades, colaborações e desafios que me permitam crescer e contribuir para o universo da programação.
 
-Estou animado para continuar essa jornada e contribuir para o mundo da tecnologia! 🚀
+Estou animado para continuar essa jornada e contribuir para o mundo da tecnologia! 🚀❤
 
 
 - ![alexlimatkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexlimatkz&show_icons=true&theme=midnight-purple)
